@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 .block-heading{
-	margin-top : 50px;
+	
 	text-align : center;
-	color : #3b99e0
+	color : #3b99e0;
+	margin-top : 50px;
 }
 
 .summary{
