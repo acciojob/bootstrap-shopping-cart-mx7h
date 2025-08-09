@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-.block-heading p{
+.block-heading {
 	
 	text-align : center;
 	color : #3b99e0;
-	margin-top : 50px;
+	
 }
 
 .summary{
