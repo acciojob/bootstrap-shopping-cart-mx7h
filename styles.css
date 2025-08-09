@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
-.heading{
+.block-heading{
+	text-align : center;
 	color : #3b99e0
 }
 
